@@ -1,2 +1,2 @@
-# oscprep.github.io
+# oscprep
 oscp notes
